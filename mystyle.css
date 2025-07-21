@@ -1,0 +1,17 @@
+:root {
+  --bs-primary: #ff5722;
+  --bs-body-color: #653232;
+}
+body
+{
+    background-color: black !important;
+}
+main
+{
+    max-width: 800px;
+    margin: auto;
+    min-height: 100vh;
+    padding: 5px;
+    background-color: var(--bs-body-bg);
+    padding: 10px;
+}
